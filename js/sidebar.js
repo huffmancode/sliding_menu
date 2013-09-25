@@ -1,5 +1,5 @@
 (function (){
-    $('.content').filter(':nth-child(n+2)').addClass('hide');
+    $('.content').filter(':nth-child(n+4)').addClass('hide');
 
     $('.header').on('mouseenter', function (){
         $(this)
